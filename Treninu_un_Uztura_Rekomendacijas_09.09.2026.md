@@ -97,80 +97,95 @@ graph TD
 
 ---
 
-## 🏋️‍♂️ 6. Spēka Treniņu Kompleksi & Video Pamācības
+## 🏋️‍♂️ 6. Spēka Treniņu Kompleksi ar Svaru Bumbām (16 kg, 24 kg, 32 kg) — Bez Sola!
+
+*Visi vingrinājumi ir pielāgoti izpildei uz grīdas vai ar pievilkšanās stieni, izmantojot Tavas 16 kg, 24 kg un 32 kg svaru bumbas.*
+
+---
 
 ### 🔴 Treniņš A: Augšķermenis & Korpuss (Pirmdiena)
 
 #### 1. Pievilkšanās pie stieņa (Pull-ups) — 4 x 6–10
+*(Paša svars vai ar 16 kg bumbu piekarinātu pie jostas)*  
 [![The Perfect Pull Up Tutorial](https://img.youtube.com/vi/eGo4IYlbE5g/hqdefault.jpg)](https://www.youtube.com/watch?v=eGo4IYlbE5g)  
 *▶️ [Skatīties Calisthenicmovement video pamācību](https://www.youtube.com/watch?v=eGo4IYlbE5g) vai [YouTube Shorts](https://www.youtube.com/results?search_query=pull+ups+proper+form+shorts)*
 
-#### 2. Hanteļu spiešana guļus (Dumbbell Bench Press) — 4 x 8–12
-[![Dumbbell Bench Press Tutorial](https://img.youtube.com/vi/VmB1G1K7v94/hqdefault.jpg)](https://www.youtube.com/watch?v=VmB1G1K7v94)  
-*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=VmB1G1K7v94) vai [YouTube Shorts](https://www.youtube.com/results?search_query=dumbbell+bench+press+proper+form+shorts)*
+#### 2. Grīdas spiešana ar svaru bumbu (Kettlebell Floor Press) — 4 x 8–12 katrai rokai
+*(Izpilde guļus uz grīdas — lieliski nodarbina krūtis un tricepsu bez sola, saudzē plecus! Svars: 24 kg vai 32 kg)*  
+[![Kettlebell Floor Press Tutorial](https://img.youtube.com/vi/4ULa6AJcjr8/hqdefault.jpg)](https://www.youtube.com/watch?v=4ULa6AJcjr8)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=4ULa6AJcjr8) vai [YouTube Shorts](https://www.youtube.com/results?search_query=kettlebell+floor+press+form+shorts)*
 
-#### 3. Hanteles vilkšana pie jostas vienai rokai (Single-Arm DB Row) — 3 x 10–12
-[![Single Arm Dumbbell Row Form](https://img.youtube.com/vi/gfUg6qWohTk/hqdefault.jpg)](https://www.youtube.com/watch?v=gfUg6qWohTk)  
-*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=gfUg6qWohTk) vai [YouTube Shorts](https://www.youtube.com/results?search_query=single+arm+dumbbell+row+proper+form+shorts)*
+#### 3. Svaru bumbas vilkšana vienai rokai (Single-Arm Kettlebell Row) — 3 x 10–12 katrai rokai
+*(Atbalstoties ar elkoni pret celi vai otru roku pret krēslu/gultu. Svars: 24 kg vai 32 kg)*  
+[![Single Arm Kettlebell Row Form](https://img.youtube.com/vi/JEC5QU-_t1Q/hqdefault.jpg)](https://www.youtube.com/watch?v=JEC5QU-_t1Q)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=JEC5QU-_t1Q) vai [YouTube Shorts](https://www.youtube.com/results?search_query=kettlebell+row+proper+form+shorts)*
 
-#### 4. Atspiešanās uz līdztekām (Dips) vai hanteļu spiešana šauri — 3 x 10–12
-[![Dips Proper Form Guide](https://img.youtube.com/vi/yN6Q1UI_xkE/hqdefault.jpg)](https://www.youtube.com/watch?v=yN6Q1UI_xkE)  
-*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=yN6Q1UI_xkE) vai [YouTube Shorts](https://www.youtube.com/results?search_query=dips+proper+form+shorts)*
+#### 4. Atspiešanās ar kājām paceltām / Dips — 3 x 12–15
+*(Kājas uz dīvāna vai grīdas. Papildu pretestībai var uzvilkt mugursomu ar 16 kg bumbu iekšā)*  
+[![Dips & Push-ups Form Guide](https://img.youtube.com/vi/yN6Q1UI_xkE/hqdefault.jpg)](https://www.youtube.com/watch?v=yN6Q1UI_xkE)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=yN6Q1UI_xkE) vai [YouTube Shorts](https://www.youtube.com/results?search_query=push+ups+proper+form+shorts)*
 
-#### 5. Planks ar svara ripu (Weighted Plank) — 3 x 45–60 sek.
+#### 5. Planks uz grīdas (Plank) — 3 x 45–60 sek.
+*(Uz grīdas, korpusa un serdes izturībai)*  
 [![Plank Proper Form Guide](https://img.youtube.com/vi/v25dawSzRTM/hqdefault.jpg)](https://www.youtube.com/watch?v=v25dawSzRTM)  
-*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=v25dawSzRTM) vai [YouTube Shorts](https://www.youtube.com/results?search_query=weighted+plank+form+shorts)*
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=v25dawSzRTM) vai [YouTube Shorts](https://www.youtube.com/results?search_query=plank+proper+form+shorts)*
 
 ---
 
-### 🔵 Treniņš B: Kājas, Pleci & Muguras lejasdaļa (Ceturtdiena)
+### 🔵 Treniņš B: Kājas, Pleci & Gūžas (Ceturtdiena)
 
-#### 1. Bulgāru izklupieni ar hantelēm (Bulgarian Split Squat) — 3 x 8–10
-[![Bulgarian Split Squat Form Guide](https://img.youtube.com/vi/2C-uNgKwPLE/hqdefault.jpg)](https://www.youtube.com/watch?v=2C-uNgKwPLE)  
-*▶️ [Skatīties Squat University pamācību](https://www.youtube.com/watch?v=2C-uNgKwPLE) vai [YouTube Shorts](https://www.youtube.com/results?search_query=bulgarian+split+squat+form+shorts)*
+#### 1. Pietupieni ar svaru bumbu pie krūtīm (Kettlebell Goblet Squat) — 4 x 10–12
+*(Turēt 24 kg vai 32 kg bumbu pie krūtīm — spēcīgi attīsta kājas un serdes muskuļus)*  
+[![Kettlebell Goblet Squat](https://img.youtube.com/vi/lRYBbchqxtI/hqdefault.jpg)](https://www.youtube.com/watch?v=lRYBbchqxtI)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=lRYBbchqxtI) vai [YouTube Shorts](https://www.youtube.com/results?search_query=kettlebell+goblet+squat+form+shorts)*
 
-#### 2. Rumāņu vilkme ar hantelēm (Dumbbell RDL) — 4 x 10–12
-[![Dumbbell RDL Form Guide](https://img.youtube.com/vi/_oyxCn2iSjU/hqdefault.jpg)](https://www.youtube.com/watch?v=_oyxCn2iSjU)  
-*▶️ [Skatīties RDL pamācību](https://www.youtube.com/watch?v=_oyxCn2iSjU) vai [YouTube Shorts](https://www.youtube.com/results?search_query=dumbbell+rdl+proper+form+shorts)*
+#### 2. Rumāņu vilkme ar svaru bumbu (Kettlebell RDL) — 4 x 10–12
+*(Ar 32 kg bumbu — aizsargā paceles cīpslas, attīsta gluteus un muguras lejasdaļu skriešanai)*  
+[![Kettlebell RDL Form Guide](https://img.youtube.com/vi/OpiHtdxk2Hg/hqdefault.jpg)](https://www.youtube.com/watch?v=OpiHtdxk2Hg)  
+*▶️ [Skatīties RDL pamācību](https://www.youtube.com/watch?v=OpiHtdxk2Hg) vai [YouTube Shorts](https://www.youtube.com/results?search_query=kettlebell+rdl+proper+form+shorts)*
 
-#### 3. Hanteļu spiešana stāvus virs galvas (Overhead Press) — 4 x 8–10
-[![Dumbbell Overhead Press Guide](https://img.youtube.com/vi/k6tzKisR3NY/hqdefault.jpg)](https://www.youtube.com/watch?v=k6tzKisR3NY)  
-*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=k6tzKisR3NY) vai [YouTube Shorts](https://www.youtube.com/results?search_query=dumbbell+overhead+press+form+shorts)*
+#### 3. Svaru bumbas spiešana virs galvas stāvus (Kettlebell Strict Press) — 4 x 6–8 katrai rokai
+*(Ar 16 kg vai 24 kg bumbu — spēcīgi pleci un stabili plecu locītavu rotatori)*  
+[![Kettlebell Overhead Press Guide](https://img.youtube.com/vi/uzPQm5zgPXo/hqdefault.jpg)](https://www.youtube.com/watch?v=uzPQm5zgPXo)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=uzPQm5zgPXo) vai [YouTube Shorts](https://www.youtube.com/results?search_query=kettlebell+overhead+press+form+shorts)*
 
-#### 4. Hanteļu celšana sāņos (Lateral Raises) — 3 x 12–15
-[![Lateral Raises Proper Form](https://img.youtube.com/vi/Kl3LEzQ5Zqs/hqdefault.jpg)](https://www.youtube.com/watch?v=Kl3LEzQ5Zqs)  
-*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=Kl3LEzQ5Zqs) vai [YouTube Shorts](https://www.youtube.com/results?search_query=dumbbell+lateral+raises+proper+form+shorts)*
+#### 4. Svaru bumbas vēzieni (Kettlebell Swings) — 3 x 15–20
+*(Ar 24 kg vai 32 kg bumbu — pasaulē #1 vingrinājums skrējēju gūžu jaudai un izturībai!)*  
+[![Kettlebell Swing Guide](https://img.youtube.com/vi/LBhaLLc153A/hqdefault.jpg)](https://www.youtube.com/watch?v=LBhaLLc153A)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=LBhaLLc153A) vai [YouTube Shorts](https://www.youtube.com/results?search_query=kettlebell+swing+proper+form+shorts)*
 
 #### 5. Kāju celšana karājoties pie stieņa (Hanging Leg Raises) — 3 x 10–15
-[![Hanging Leg Raises Form Guide](https://img.youtube.com/vi/2n4UqRIJyk4/hqdefault.jpg)](https://www.youtube.com/watch?v=2n4UqRIJyk4)  
-*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=2n4UqRIJyk4) vai [YouTube Shorts](https://www.youtube.com/results?search_query=hanging+leg+raises+form+shorts)*
+[![Hanging Leg Raises Form Guide](https://img.youtube.com/vi/AVob5I0sYuY/hqdefault.jpg)](https://www.youtube.com/watch?v=AVob5I0sYuY)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=AVob5I0sYuY) vai [YouTube Shorts](https://www.youtube.com/results?search_query=hanging+leg+raises+form+shorts)*
 
 ---
 
-### 🟢 Treniņš C: Full Body Hypertrophy (Sestdiena)
+### 🟢 Treniņš C: Full Body Hypertrophy & Jauda (Sestdiena)
 
-#### 1. Goblet Squat (Pietupieni ar hanteli pie krūtīm) — 3 x 12–15
-[![Goblet Squat Tutorial](https://img.youtube.com/vi/MeIiIdhvXT4/hqdefault.jpg)](https://www.youtube.com/watch?v=MeIiIdhvXT4)  
-*▶️ [Skatīties Goblet Squat pamācību](https://www.youtube.com/watch?v=MeIiIdhvXT4) vai [YouTube Shorts](https://www.youtube.com/results?search_query=goblet+squat+proper+form+shorts)*
+#### 1. Atpakaļizklupieni ar svaru bumbu (Kettlebell Reverse Lunges) — 3 x 10 katrai kājai
+*(Turēt 16 kg vai 24 kg bumbu pie krūtīm vai rokā — bez sola, saudzē ceļus un stiprina gūžas)*  
+[![Kettlebell Reverse Lunges](https://img.youtube.com/vi/uEnyqgbDyI0/hqdefault.jpg)](https://www.youtube.com/watch?v=uEnyqgbDyI0)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=uEnyqgbDyI0) vai [YouTube Shorts](https://www.youtube.com/results?search_query=kettlebell+reverse+lunge+form+shorts)*
 
-#### 2. Hanteļu vilkšana pie krūtīm noliecies (Bent-over Row) — 3 x 10–12
-[![Bent-Over Dumbbell Row Tutorial](https://img.youtube.com/vi/6TSP1TRMUzs/hqdefault.jpg)](https://www.youtube.com/watch?v=6TSP1TRMUzs)  
-*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=6TSP1TRMUzs) vai [YouTube Shorts](https://www.youtube.com/results?search_query=bent+over+dumbbell+row+proper+form+shorts)*
+#### 2. Svaru bumbas uzraušana un izspiešana (Kettlebell Clean & Press) — 3 x 6–8 katrai rokai
+*(Ar 16 kg vai 24 kg bumbu — funkcionāls visa ķermeņa spēka un muskuļu attīstītājs)*  
+[![Kettlebell Clean and Press](https://img.youtube.com/vi/xW3FwDQ59ms/hqdefault.jpg)](https://www.youtube.com/watch?v=xW3FwDQ59ms)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=xW3FwDQ59ms) vai [YouTube Shorts](https://www.youtube.com/results?search_query=kettlebell+clean+and+press+form+shorts)*
 
-#### 3. Slīpā hanteļu spiešana (Incline Dumbbell Press) — 3 x 10–12
-[![Incline Dumbbell Press Tutorial](https://img.youtube.com/vi/hChjZQhX1Ls/hqdefault.jpg)](https://www.youtube.com/watch?v=hChjZQhX1Ls)  
-*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=hChjZQhX1Ls) vai [YouTube Shorts](https://www.youtube.com/results?search_query=incline+dumbbell+press+form+shorts)*
+#### 3. Bicepsa locīšana ar svaru bumbu (Kettlebell Bicep Curls) — 3 x 10–12
+*(Ar 16 kg vai 24 kg bumbu, turot aiz roktura ragiem)*  
+[![Kettlebell Bicep Curls](https://img.youtube.com/vi/X5kMsh-Zdhc/hqdefault.jpg)](https://www.youtube.com/watch?v=X5kMsh-Zdhc)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=X5kMsh-Zdhc) vai [YouTube Shorts](https://www.youtube.com/results?search_query=kettlebell+bicep+curl+form+shorts)*
 
-#### 4. Bicepsa + Tricepsa supersets (3 x 12)
-[![Dumbbell Bicep Curl Form Guide](https://img.youtube.com/vi/XE_pHwbst04/hqdefault.jpg)](https://www.youtube.com/watch?v=XE_pHwbst04)  
-*▶️ [Skatīties Bicepsa locīšanas video](https://www.youtube.com/watch?v=XE_pHwbst04) vai [YouTube Shorts](https://www.youtube.com/results?search_query=dumbbell+bicep+curl+form+shorts)*
+#### 4. Dimanta atspiešanās no grīdas tricepsam (Diamond Push-ups) — 3 x 12–15
+*(Plaukstas kopā uz grīdas — maksimāla tricepsa un krūšu iekšējās daļas noslodze bez inventāra)*  
+[![Diamond Push-ups Form](https://img.youtube.com/vi/J0DnG1_S92I/hqdefault.jpg)](https://www.youtube.com/watch?v=J0DnG1_S92I)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=J0DnG1_S92I) vai [YouTube Shorts](https://www.youtube.com/results?search_query=diamond+push+ups+form+shorts)*
 
-[![Overhead Tricep Extension Guide](https://img.youtube.com/vi/b_r_LW4HEcM/hqdefault.jpg)](https://www.youtube.com/watch?v=b_r_LW4HEcM)  
-*▶️ [Skatīties Franču preses tricepsam video](https://www.youtube.com/watch?v=b_r_LW4HEcM) vai [YouTube Shorts](https://www.youtube.com/results?search_query=overhead+dumbbell+tricep+extension+form+shorts)*
-
-#### 5. Farmer's Walk (Smagu hanteļu nešana) — 3 x 40–50 metri
-[![Farmer's Walk Form Guide](https://img.youtube.com/vi/1uOs1hP3u4A/hqdefault.jpg)](https://www.youtube.com/watch?v=1uOs1hP3u4A)  
-*▶️ [Skatīties Farmer's Walk video pamācību](https://www.youtube.com/watch?v=1uOs1hP3u4A) vai [YouTube Shorts](https://www.youtube.com/results?search_query=farmers+walk+proper+form+shorts)*
+#### 5. Svaru bumbas nēsāšana (Kettlebell Farmer's / Suitcase Carry) — 3 x 40–50 metri
+*(Vienā rokā 32 kg, otrā 24 kg vai 16 kg — brutāls satvēriena, trapeces un slīpo vēdera muskuļu spēks)*  
+[![Farmer's Carry Form](https://img.youtube.com/vi/z7E_YU9P1jU/hqdefault.jpg)](https://www.youtube.com/watch?v=z7E_YU9P1jU)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=z7E_YU9P1jU) vai [YouTube Shorts](https://www.youtube.com/results?search_query=kettlebell+farmers+carry+form+shorts)*
 
 ---
 
