@@ -120,10 +120,10 @@ graph TD
 [![Single Arm Kettlebell Row Form](https://img.youtube.com/vi/JEC5QU-_t1Q/hqdefault.jpg)](https://www.youtube.com/watch?v=JEC5QU-_t1Q)  
 *▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=JEC5QU-_t1Q) vai [YouTube Shorts](https://www.youtube.com/results?search_query=kettlebell+row+proper+form+shorts)*
 
-#### 4. Atspiešanās ar kājām paceltām / Dips — 3 x 12–15
-*(Kājas uz dīvāna vai grīdas. Papildu pretestībai var uzvilkt mugursomu ar 16 kg bumbu iekšā)*  
-[![Dips & Push-ups Form Guide](https://img.youtube.com/vi/yN6Q1UI_xkE/hqdefault.jpg)](https://www.youtube.com/watch?v=yN6Q1UI_xkE)  
-*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=yN6Q1UI_xkE) vai [YouTube Shorts](https://www.youtube.com/results?search_query=push+ups+proper+form+shorts)*
+#### 4. Deficīta atspiešanās uz svaru bumbām (Kettlebell Deficit Push-ups) — 3 x 10–12
+*(Plaukstas novieto uz 16 kg vai 24 kg bumbu rokturiem — ļauj krūtīm nolaisties krietni dziļāk par plaukstām, radot precīzi tādu pašu milzīgu krūšu un tricepsa iestiepumu kā līdztekas, bet bez riska pleciem un bez sola/līdztekām!)*  
+[![Kettlebell Deficit Push-ups Form Guide](https://img.youtube.com/vi/fKBsxBqfIgM/hqdefault.jpg)](https://www.youtube.com/watch?v=fKBsxBqfIgM)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=fKBsxBqfIgM) vai [YouTube Shorts](https://www.youtube.com/results?search_query=kettlebell+deficit+push+ups+shorts)*
 
 #### 5. Planks uz grīdas (Plank) — 3 x 45–60 sek.
 *(Uz grīdas, korpusa un serdes izturībai)*  
