@@ -58,8 +58,10 @@ Kad stipri svīsti, **~90% no zaudētajiem minerāliem ir NĀTRIJS (sāls)**. Ci
 * **Organisma gatavība:** Garmin *Training Readiness* **88/100 (High)**, statuss **`PRODUCTIVE`**, slodzes attiecība **Load Ratio 1.0 (Optimāla)**.
 
 ### 🔥 4x4 VO2 Max Intervālu Struktūra (1x nedēļā, Trešdienās):
-Zinātniski efektīvākā metode VO2 Max celšanai no 46.5 uz 52–55 ml/kg/min.  
-▶️ **[Skatīties 4x4 protokola skaidrojumu (YouTube Short)](https://www.youtube.com/results?search_query=4x4+interval+running+shorts)**
+Zinātniski efektīvākā metode VO2 Max celšanai no 46.5 uz 52–55 ml/kg/min.
+
+[![4x4 VO2 Max Interval Training Guide](https://img.youtube.com/vi/Q_3aT2Lw8q8/hqdefault.jpg)](https://www.youtube.com/results?search_query=4x4+interval+running+shorts)  
+*▶️ Klikšķini uz attēla, lai atvērtu 4x4 protokola video.*
 
 1. **Iesildīšanās (10–12 min):** Z2 bāzes temps (pulss ~115–125 bpm) + 2x15s uzrāvieni.
 2. **4 x 4 minūtes darba intervāli:**
@@ -95,44 +97,52 @@ graph TD
 
 ---
 
-## 🏋️‍♂️ 6. Spēka Treniņu Kompleksi
+## 🏋️‍♂️ 6. Spēka Treniņu Kompleksi & Video Pamācības
 
 ### 🔴 Treniņš A: Augšķermenis & Korpuss (Pirmdiena)
-1. **Pievilkšanās pie stieņa (Pull-ups):** 4 x 6–10 (ar svaru vai paša svaru, atpūta 90–120s).  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=pull+ups+proper+form+shorts)**
-2. **Hanteļu spiešana guļus (Dumbbell Bench Press):** 4 x 8–12 (atpūta 90s).  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=dumbbell+bench+press+proper+form+shorts)**
-3. **Hanteles vilkšana pie jostas vienai rokai (Single-Arm DB Row):** 3 x 10–12 katrai rokai.  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=single+arm+dumbbell+row+proper+form+shorts)**
-4. **Atspiešanās uz līdztekām (Dips) vai hanteļu spiešana šauri:** 3 x 10–12.  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=dips+proper+form+shorts)**
-5. **Planks ar svara ripu (Weighted Plank):** 3 x 45–60 sek.  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=weighted+plank+form+shorts)**
+
+#### 1. Pievilkšanās pie stieņa (Pull-ups) — 4 x 6–10
+[![Pull-ups Perfect Form Tutorial](https://img.youtube.com/vi/sI91WJ-P41A/hqdefault.jpg)](https://www.youtube.com/watch?v=sI91WJ-P41A)  
+*▶️ [Skatīties pilno video pamācību](https://www.youtube.com/watch?v=sI91WJ-P41A) vai [YouTube Short (ātrais formāts)](https://www.youtube.com/results?search_query=pull+ups+proper+form+shorts)*
+
+#### 2. Hanteļu spiešana guļus (Dumbbell Bench Press) — 4 x 8–12
+[![Dumbbell Bench Press Tutorial](https://img.youtube.com/vi/VmB1G1K7v94/hqdefault.jpg)](https://www.youtube.com/watch?v=VmB1G1K7v94)  
+*▶️ [Skatīties video pamācību](https://www.youtube.com/watch?v=VmB1G1K7v94) vai [YouTube Short](https://www.youtube.com/results?search_query=dumbbell+bench+press+proper+form+shorts)*
+
+* **3. Hanteles vilkšana pie jostas vienai rokai (Single-Arm DB Row):** 3 x 10–12 ▶️ [Video pamācība (Short)](https://www.youtube.com/results?search_query=single+arm+dumbbell+row+proper+form+shorts)
+* **4. Atspiešanās uz līdztekām (Dips) vai hanteļu spiešana šauri:** 3 x 10–12 ▶️ [Video pamācība (Short)](https://www.youtube.com/results?search_query=dips+proper+form+shorts)
+* **5. Planks ar svara ripu (Weighted Plank):** 3 x 45–60 sek. ▶️ [Video pamācība (Short)](https://www.youtube.com/results?search_query=weighted+plank+form+shorts)
+
+---
 
 ### 🔵 Treniņš B: Kājas, Pleci & Muguras lejasdaļa (Ceturtdiena)
-1. **Bulgāru izklupieni ar hantelēm (Bulgarian Split Squat):** 3 x 8–10 katrai kājai.  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=bulgarian+split+squat+form+shorts)**
-2. **Rumāņu vilkme ar hantelēm (Dumbbell RDL):** 4 x 10–12 (hamstrings & muguras lejasdaļai).  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=dumbbell+rdl+proper+form+shorts)**
-3. **Hanteļu spiešana stāvus virs galvas (Overhead Press):** 4 x 8–10.  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=dumbbell+overhead+press+form+shorts)**
-4. **Hanteļu celšana sāņos (Lateral Raises):** 3 x 12–15.  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=dumbbell+lateral+raises+proper+form+shorts)**
-5. **Kāju celšana karājoties pie stieņa (Hanging Leg Raises):** 3 x 10–15.  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=hanging+leg+raises+form+shorts)**
+
+#### 1. Bulgāru izklupieni ar hantelēm (Bulgarian Split Squat) — 3 x 8–10
+[![Bulgarian Split Squat Form Guide](https://img.youtube.com/vi/2C-uNgKwPLE/hqdefault.jpg)](https://www.youtube.com/watch?v=2C-uNgKwPLE)  
+*▶️ [Skatīties Squat University pamācību](https://www.youtube.com/watch?v=2C-uNgKwPLE) vai [YouTube Short](https://www.youtube.com/results?search_query=bulgarian+split+squat+form+shorts)*
+
+#### 2. Rumāņu vilkme ar hantelēm (Dumbbell RDL) — 4 x 10–12
+[![Dumbbell RDL Form Guide](https://img.youtube.com/vi/_oyxCn2iSjU/hqdefault.jpg)](https://www.youtube.com/watch?v=_oyxCn2iSjU)  
+*▶️ [Skatīties RDL pamācību](https://www.youtube.com/watch?v=_oyxCn2iSjU) vai [YouTube Short](https://www.youtube.com/results?search_query=dumbbell+rdl+proper+form+shorts)*
+
+* **3. Hanteļu spiešana stāvus virs galvas (Overhead Press):** 4 x 8–10 ▶️ [Video pamācība (Short)](https://www.youtube.com/results?search_query=dumbbell+overhead+press+form+shorts)
+* **4. Hanteļu celšana sāņos (Lateral Raises):** 3 x 12–15 ▶️ [Video pamācība (Short)](https://www.youtube.com/results?search_query=dumbbell+lateral+raises+proper+form+shorts)
+* **5. Kāju celšana karājoties pie stieņa (Hanging Leg Raises):** 3 x 10–15 ▶️ [Video pamācība (Short)](https://www.youtube.com/results?search_query=hanging+leg+raises+form+shorts)
+
+---
 
 ### 🟢 Treniņš C: Full Body Hypertrophy (Sestdiena)
-1. **Goblet Squat (Pietupieni ar hanteli pie krūtīm):** 3 x 12–15.  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=goblet+squat+proper+form+shorts)**
-2. **Hanteļu vilkšana pie krūtīm noliecies (Bent-over Row):** 3 x 10–12.  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=bent+over+dumbbell+row+proper+form+shorts)**
-3. **Slīpā hanteļu spiešana (Incline Press):** 3 x 10–12.  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=incline+dumbbell+press+form+shorts)**
-4. **Bicepsa + Tricepsa supersets:**  
-   * Hanteļu locīšana bicepsam (3 x 12) ▶️ **[Bicep Curl Short](https://www.youtube.com/results?search_query=dumbbell+bicep+curl+form+shorts)**  
-   * Franču prese ar hanteli aiz galvas tricepsam (3 x 12) ▶️ **[Overhead Tricep Extension Short](https://www.youtube.com/results?search_query=overhead+dumbbell+tricep+extension+form+shorts)**
-5. **Farmer's Walk (Smagu hanteļu nešana):** 3 x 40–50 metri.  
-   ▶️ **[Skatīties tehniku (YouTube Short)](https://www.youtube.com/results?search_query=farmers+walk+proper+form+shorts)**
+
+#### 1. Goblet Squat (Pietupieni ar hanteli pie krūtīm) — 3 x 12–15
+[![Goblet Squat Tutorial](https://img.youtube.com/vi/MeIiIdhvXT4/hqdefault.jpg)](https://www.youtube.com/watch?v=MeIiIdhvXT4)  
+*▶️ [Skatīties Goblet Squat pamācību](https://www.youtube.com/watch?v=MeIiIdhvXT4) vai [YouTube Short](https://www.youtube.com/results?search_query=goblet+squat+proper+form+shorts)*
+
+* **2. Hanteļu vilkšana pie krūtīm noliecies (Bent-over Row):** 3 x 10–12 ▶️ [Video pamācība (Short)](https://www.youtube.com/results?search_query=bent+over+dumbbell+row+proper+form+shorts)
+* **3. Slīpā hanteļu spiešana (Incline Press):** 3 x 10–12 ▶️ [Video pamācība (Short)](https://www.youtube.com/results?search_query=incline+dumbbell+press+form+shorts)
+* **4. Bicepsa + Tricepsa supersets:**  
+  * Hanteļu locīšana bicepsam (3 x 12) ▶️ [Bicep Curl Short](https://www.youtube.com/results?search_query=dumbbell+bicep+curl+form+shorts)  
+  * Franču prese ar hanteli aiz galvas (3 x 12) ▶️ [Tricep Extension Short](https://www.youtube.com/results?search_query=overhead+dumbbell+tricep+extension+form+shorts)
+* **5. Farmer's Walk (Smagu hanteļu nešana):** 3 x 40–50 metri ▶️ [Video pamācība (Short)](https://www.youtube.com/results?search_query=farmers+walk+proper+form+shorts)
 
 ---
 
