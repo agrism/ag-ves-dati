@@ -60,8 +60,8 @@ Kad stipri svīsti, **~90% no zaudētajiem minerāliem ir NĀTRIJS (sāls)**. Ci
 ### 🔥 4x4 VO2 Max Intervālu Struktūra (1x nedēļā, Trešdienās):
 Zinātniski efektīvākā metode VO2 Max celšanai no 46.5 uz 52–55 ml/kg/min.
 
-[![4x4 VO2 Max Interval Training Guide](https://img.youtube.com/vi/Q_3aT2Lw8q8/hqdefault.jpg)](https://www.youtube.com/results?search_query=4x4+interval+running+shorts)  
-*▶️ Klikšķini uz attēla, lai atvērtu 4x4 protokola video.*
+[![4x4 VO2 Max Interval Training Guide](https://img.youtube.com/vi/3r0Kd3G4kek/hqdefault.jpg)](https://www.youtube.com/watch?v=3r0Kd3G4kek)  
+*▶️ [Skatīties 4x4 protokola video pamācību](https://www.youtube.com/watch?v=3r0Kd3G4kek) vai [YouTube Shorts](https://www.youtube.com/results?search_query=4x4+interval+running+shorts)*
 
 1. **Iesildīšanās (10–12 min):** Z2 bāzes temps (pulss ~115–125 bpm) + 2x15s uzrāvieni.
 2. **4 x 4 minūtes darba intervāli:**
@@ -102,8 +102,8 @@ graph TD
 ### 🔴 Treniņš A: Augšķermenis & Korpuss (Pirmdiena)
 
 #### 1. Pievilkšanās pie stieņa (Pull-ups) — 4 x 6–10
-[![Pull-ups Perfect Form Tutorial](https://img.youtube.com/vi/sI91WJ-P41A/hqdefault.jpg)](https://www.youtube.com/watch?v=sI91WJ-P41A)  
-*▶️ [Skatīties pilno video pamācību](https://www.youtube.com/watch?v=sI91WJ-P41A) vai [YouTube Short (ātrais formāts)](https://www.youtube.com/results?search_query=pull+ups+proper+form+shorts)*
+[![The Perfect Pull Up Tutorial](https://img.youtube.com/vi/eGo4IYlbE5g/hqdefault.jpg)](https://www.youtube.com/watch?v=eGo4IYlbE5g)  
+*▶️ [Skatīties Calisthenicmovement video pamācību](https://www.youtube.com/watch?v=eGo4IYlbE5g) vai [YouTube Shorts](https://www.youtube.com/results?search_query=pull+ups+proper+form+shorts)*
 
 #### 2. Hanteļu spiešana guļus (Dumbbell Bench Press) — 4 x 8–12
 [![Dumbbell Bench Press Tutorial](https://img.youtube.com/vi/VmB1G1K7v94/hqdefault.jpg)](https://www.youtube.com/watch?v=VmB1G1K7v94)  
