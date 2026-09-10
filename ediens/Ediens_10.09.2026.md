@@ -1,6 +1,7 @@
 # Uztura un uztura bagātinātāju dienasgrāmata — 10.09.2026
 
 **Datums:** 10.09.2026  
+**Fotoattēls:** [Ediens_10.09.2026_dārzeņi 1400g., bezpiedevu jogurts 100g., 4 mazas olas, 6 āboli, prosa 230g., vistas fileja 600g., ķirbju sēklas 15g., saukes puķu sēklas 15g.jpeg](file:///Users/agrismarkus/ag/AG_VES/ag_ves_dati/ediens/Ediens_10.09.2026_d%C4%81rze%C5%86i%201400g.,%20bezpiedevu%20jogurts%20100g.,%204%20mazas%20olas,%206%20%C4%81boli,%20prosa%20230g.,%20vistas%20fileja%20600g.,%20%C4%B7irbju%20s%C4%93klas%2015g.,%20saukes%20pu%C4%B7u%20s%C4%93klas%2015g.jpeg)  
 **Slodze:** 14.33 km rīta skrējiens (1 135 kcal) + Vakara Spēka Treniņš B ar svaru bumbām
 
 ---
