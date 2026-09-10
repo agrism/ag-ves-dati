@@ -33,6 +33,36 @@
 
 ---
 
+## 🕒 Ēdienreižu un porciju sadalījums pa dienu
+
+### 🍳 1. Brokastis (Pēc rīta 14.3 km skrējiena — ~09:30–10:00):
+* **5 mazās olas** *(vārītas vai viegli ceptas)*
+* **Dārzeņi:** ~300 g *(gurķi, tomāti)*
+* **Ābols:** 1 gab.
+* **Elektrolītu dzēriens:** Ūdens + Limmi citrons + 1/4 tējk. sāls
+* **Suplementi:** D3, Cinks, Dzelzs, Glikozamīns, Omega-3, Kreatīns (10g)
+
+### 🍗 2. Pusdienas (Pirms vakara spēka treniņa — ~13:00–14:00):
+* **300 g vistas fileja** *(vārīta/sautēta/cepta)*
+* **Prosa:** 115 g *(puse no sausās prosas daudzuma)*
+* **Dārzeņi:** ~450 g
+* **Sēklas:** 15 g ķirbju sēklas
+* **Āboli:** 2 gab.
+
+### 🍎 3. Pēcpusdienas uzkoda (~17:00–17:30):
+* **Āboli:** 2–3 gab.
+* **Sēklas:** 15 g saulespuķu sēklas
+* **Ūdens:** 500 ml
+
+### 🍲 4. Vakariņas (Pēc Spēka Treniņa B — ~20:45–21:15):
+* **300 g vistas fileja** *(otra puse)*
+* **Prosa:** 115 g *(otra puse)*
+* **Dārzeņi:** ~450 g
+* **Jogurts bez piedevām:** 100 g
+* **Suplementi:** Magnija bisglicināts (400 mg) pirms miega
+
+---
+
 ## 📈 Dienas kopējais kopsavilkums
 
 * **Kopējā enerģētiskā vērtība:** **~2 907 kcal** *(ēdiens + Omega-3 eļļa)*
