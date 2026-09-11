@@ -1,7 +1,7 @@
 # 🫀 Garmin Pilnā VO2 Max Vēsture un Grafiks (2024–2026)
 
-> **Pārskata periods:** 2024. gada 6. augusts — 2026. gada 10. septembris  
-> **Kopējais datu apjoms:** 766 dienas / mērījumi  
+> **Pārskata periods:** 2024. gada 6. augusts — 2026. gada 11. septembris  
+> **Kopējais datu apjoms:** 777 dienas / mērījumi  
 > **Avots:** Garmin FirstBeat Analytics API (skriešanas un aerobās aktivitātes)
 
 ---
@@ -10,10 +10,10 @@
 
 | Rādītājs | Vērtība | Datums / Periods | Komentārs |
 | :--- | :---: | :---: | :--- |
-| 📍 **Pašreizējais līmenis** | **46.5** ml/kg/min | 2026-09-10 | Spēcīgs un stabils pieaugums |
+| 📍 **Pašreizējais līmenis** | **46.5** ml/kg/min *(profilā 47.0)* | 2026-09-11 | Spēcīgs un stabils pieaugums |
 | 🚀 **Vēsturiskais pīķis** | **47.4** ml/kg/min | 2024-08-10 — 2024-09-01 | Sākotnējais maksimālais līmenis |
 | 📉 **Vēsturiskais minimums** | **39.3** ml/kg/min | 2024-12-22 — 2024-12-27 | Ziemas sezonas kritums |
-| 📈 **Pēdējo 2 mēnešu lēciens** | **+2.8** ml/kg/min | 2026-07-28 līdz 2026-09-10 | No 43.7 uz 46.5 (intensīvs progress) |
+| 📈 **Pēdējo 2 mēnešu lēciens** | **+2.8** ml/kg/min | 2026-07-28 līdz 2026-09-11 | No 43.7 uz 46.5 (intensīvs progress) |
 | 🎯 **Mērķis (Fitness Age 30)** | **52.0 – 55.0** ml/kg/min | 2026./2027. gads | Sasniedzams ar 4x4 intervāliem un optimālu svaru |
 
 ---
@@ -63,7 +63,7 @@ VO2 Max (ml/kg/min)
 * Rudens un ziemas periodā fiziskā forma saglabājās ievērojami labāka nekā gadu iepriekš. VO2 Max nenokrita zem 44.4, veidojot stabilu aerobās izturības plato (~44.9).
 
 ### 4. 2026. gada jūlijs — septembris: Jauns straujš izrāviens (43.7 → 46.5)
-* Pēc īslaicīga krituma jūlijā (43.7), augustā un septembrī sekoja ļoti straujš un spēcīgs kāpums līdz **46.5** (+2.8 ml/kg/min dažu nedēļu laikā).
+* Pēc īslaicīga krituma jūlijā (43.7), augustā un septembrī sekoja ļoti straujš un spēcīgs kāpums līdz **46.5** (+2.8 ml/kg/min dažu nedēļu laikā, Garmin noapaļotais profils: **47.0**).
 * To nodrošināja regulāri gari skrējieni (14+ km), augstāka slodzes kapacitāte un svara samazināšanās tendence.
 
 ---
