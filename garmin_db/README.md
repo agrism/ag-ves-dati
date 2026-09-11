@@ -135,3 +135,14 @@ JOIN hrv_records h ON s.calendar_date = h.calendar_date
 ORDER BY s.calendar_date DESC
 LIMIT 14;
 ```
+
+---
+
+## 🐬 MySQL Eksports un Hetzner Servera Izvietošana
+
+Datu bāze ir pilnībā gatava eksportam un darbam uz MySQL 8.0 servera (piemēram, Hetzner ar DeepSeek Harness):
+
+1. **MySQL Dump Fails:** `garmin_db/garmin_mysql_dump.sql` (un `garmin_mysql_dump.sql.gz`)
+2. **Eksporta skripts:** `python3 scripts/export_sqlite_to_mysql_sql.py`
+3. **Izvietošanas pamācība:** Skatīt detalizētu ceļvedi [HETZNER_DEPLOYMENT.md](file:///Users/agrismarkus/ag/AG_VES/ag_ves_dati/HETZNER_DEPLOYMENT.md).
+

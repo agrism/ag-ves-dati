@@ -3,26 +3,20 @@
 Garmin Data Query & Analytics CLI Tool.
 
 Provides fast querying, statistical summaries, correlation analyses, and exports
-from the local SQLite Garmin database (`garmin_db/garmin.db`).
+from either MySQL (Hetzner / remote production) or SQLite (local database).
 """
 
-import sqlite3
+import sys
 import argparse
 from pathlib import Path
 from typing import List, Dict, Any
 
-DB_PATH = Path("/Users/agrismarkus/ag/AG_VES/ag_ves_dati/garmin_db/garmin.db")
+# Import unified DB adapter
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from db_adapter import get_db, DBConnection, DB_TYPE
 
 
-def get_connection(db_path: Path = DB_PATH) -> sqlite3.Connection:
-    if not db_path.exists():
-        raise FileNotFoundError(f"Database not found at {db_path}. Please run garmin_sync.py first.")
-    conn = sqlite3.connect(str(db_path))
-    conn.row_factory = sqlite3.Row
-    return conn
-
-
-def print_table(rows: List[sqlite3.Row], title: str = None, limit: int = 50):
+def print_table(rows: List[Any], title: str = None, limit: int = 50):
     if not rows:
         print("No records found.")
         return
@@ -30,7 +24,13 @@ def print_table(rows: List[sqlite3.Row], title: str = None, limit: int = 50):
     if title:
         print(f"\n=== {title} ===")
 
-    headers = rows[0].keys()
+    # Handle both sqlite3.Row and pymysql dicts
+    first_row = rows[0]
+    if isinstance(first_row, dict):
+        headers = list(first_row.keys())
+    else:
+        headers = first_row.keys()
+
     col_widths = {h: len(h) for h in headers}
 
     data_rows = []
@@ -62,10 +62,9 @@ def print_table(rows: List[sqlite3.Row], title: str = None, limit: int = 50):
         print(f"... and {len(rows) - limit} more rows.")
 
 
-def show_summary(conn: sqlite3.Connection):
-    cursor = conn.cursor()
+def show_summary(db: DBConnection):
     print("\n==================================================")
-    print("📊 GARMIN DATABASE OVERVIEW & RECORD COUNTS")
+    print(f"📊 GARMIN DATABASE OVERVIEW & RECORD COUNTS [{db.db_type.upper()}]")
     print("==================================================")
 
     tables = [
@@ -84,22 +83,28 @@ def show_summary(conn: sqlite3.Connection):
 
     for table, label in tables:
         try:
-            cursor.execute(f"SELECT COUNT(*) as cnt FROM {table}")
-            cnt = cursor.fetchone()["cnt"]
-            cursor.execute(f"SELECT MIN(calendar_date) as min_d, MAX(calendar_date) as max_d FROM {table}")
-            d_row = cursor.fetchone()
-            d_range = f"({d_row['min_d']} to {d_row['max_d']})" if d_row and d_row['min_d'] else ""
+            cur = db.execute(f"SELECT COUNT(*) as cnt FROM {table}")
+            cnt_row = cur.fetchone()
+            cnt = cnt_row["cnt"] if isinstance(cnt_row, dict) else cnt_row[0]
+
+            cur = db.execute(f"SELECT MIN(calendar_date) as min_d, MAX(calendar_date) as max_d FROM {table}")
+            d_row = cur.fetchone()
+            if d_row and d_row["min_d"]:
+                d_range = f"({d_row['min_d']} to {d_row['max_d']})"
+            else:
+                d_range = ""
             print(f"  • {label:28s}: {cnt:5d} records {d_range}")
         except Exception:
             try:
-                cursor.execute(f"SELECT COUNT(*) as cnt FROM {table}")
-                cnt = cursor.fetchone()["cnt"]
+                cur = db.execute(f"SELECT COUNT(*) as cnt FROM {table}")
+                cnt_row = cur.fetchone()
+                cnt = cnt_row["cnt"] if isinstance(cnt_row, dict) else cnt_row[0]
                 print(f"  • {label:28s}: {cnt:5d} records")
             except Exception:
                 pass
 
     print("\n--- Activity Breakdown by Sport Type ---")
-    cursor.execute("""
+    cur = db.execute("""
     SELECT 
         activity_type,
         COUNT(*) as total_count,
@@ -111,36 +116,33 @@ def show_summary(conn: sqlite3.Connection):
     GROUP BY activity_type
     ORDER BY total_count DESC
     """)
-    print_table(cursor.fetchall())
+    print_table(cur.fetchall())
 
 
-def show_vo2max(conn: sqlite3.Connection):
-    cursor = conn.cursor()
+def show_vo2max(db: DBConnection):
     print("\n=== VO2 MAX MONTHLY STATS & TREND ===")
-    cursor.execute("""
+    cur = db.execute("""
     SELECT 
-        substr(start_time_local, 1, 7) as month,
+        SUBSTRING(start_time_local, 1, 7) as month,
         COUNT(vo2_max) as measurements,
         ROUND(MIN(vo2_max), 1) as min_vo2,
         ROUND(MAX(vo2_max), 1) as max_vo2,
         ROUND(AVG(vo2_max), 1) as avg_vo2
     FROM activities
     WHERE vo2_max IS NOT NULL
-    GROUP BY month
+    GROUP BY SUBSTRING(start_time_local, 1, 7)
     ORDER BY month ASC
     """)
-    print_table(cursor.fetchall())
+    print_table(cur.fetchall())
 
 
-def show_recent_runs(conn: sqlite3.Connection, limit: int = 15):
-    cursor = conn.cursor()
-    cursor.execute("""
+def show_recent_runs(db: DBConnection, limit: int = 15):
+    cur = db.execute("""
     SELECT 
-        substr(start_time_local, 1, 10) as date,
+        SUBSTRING(start_time_local, 1, 10) as date,
         activity_name,
         ROUND(distance_m / 1000.0, 2) as km,
         ROUND(duration_s / 60.0, 1) as min,
-        printf('%d:%02d', CAST(duration_s / (distance_m / 1000.0) / 60 AS INT), CAST((duration_s / (distance_m / 1000.0)) % 60 AS INT)) as pace_min_km,
         ROUND(avg_hr, 0) as avg_hr,
         ROUND(max_hr, 0) as max_hr,
         ROUND(aerobic_training_effect, 1) as aer_te,
@@ -150,34 +152,36 @@ def show_recent_runs(conn: sqlite3.Connection, limit: int = 15):
     ORDER BY start_time_local DESC
     LIMIT ?
     """, (limit,))
-    print_table(cursor.fetchall(), title=f"Last {limit} Running Activities")
+    print_table(cur.fetchall(), title=f"Last {limit} Running Activities")
 
 
-def execute_sql(conn: sqlite3.Connection, query: str):
-    cursor = conn.cursor()
-    cursor.execute(query)
-    rows = cursor.fetchall()
+def execute_sql(db: DBConnection, query: str):
+    cur = db.execute(query)
+    rows = cur.fetchall()
     print_table(rows, title=f"Query Results ({len(rows)} rows)")
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Query Garmin Database")
+    parser = argparse.ArgumentParser(description="Query Garmin Database (MySQL / SQLite)")
     parser.add_argument("--summary", action="store_true", help="Show overview and record counts")
     parser.add_argument("--vo2max", action="store_true", help="Show VO2 max monthly progression")
     parser.add_argument("--runs", action="store_true", help="Show recent running activities")
     parser.add_argument("--sql", type=str, help="Run custom SQL query")
     args = parser.parse_args()
 
-    conn = get_connection()
+    db = get_db()
 
-    if args.sql:
-        execute_sql(conn, args.sql)
-    elif args.vo2max:
-        show_vo2max(conn)
-    elif args.runs:
-        show_recent_runs(conn)
-    else:
-        show_summary(conn)
+    try:
+        if args.sql:
+            execute_sql(db, args.sql)
+        elif args.vo2max:
+            show_vo2max(db)
+        elif args.runs:
+            show_recent_runs(db)
+        else:
+            show_summary(db)
+    finally:
+        db.close()
 
 
 if __name__ == "__main__":

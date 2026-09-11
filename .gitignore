@@ -7,6 +7,9 @@ ehthumbs.db
 Thumbs.db
 __pycache__/
 *.pyc
+*.db
 *.db-journal
 *.db-wal
 *.db-shm
+.env
+.venv/
