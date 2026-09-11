@@ -1,57 +1,65 @@
-# Uztura un uztura bagātinātāju rekomendācijas — 11.09.2026
+# Uztura un uztura bagātinātāju dienasgrāmata — 11.09.2026
 
 **Datums:** 11.09.2026  
 **Šorīta svars:** 81.53 kg (25.2% tauki, 32.24 kg muskuļu masa)  
-**Veiktā slodze šorīt:** 8.25 km rīta skrējiens (58 min 42 sek, 645 kcal, avg HR 127 bpm)  
-**Ēšanas logs (3 ēdienreizes):** 10:00 / 14:00 / 18:00 (16/8 badošanās režīms)
+**Slodze:** 8.25 km rīta skrējiens (645 kcal, avg HR 127 bpm)  
+**Ēšanas logs:** 10:00 — 18:00 (3 ēdienreizes: 10:00 / 14:00 / 18:00)
 
 ---
 
-## 🔍 Fizioloģiskais novērtējums pēc vakardienas
+## 🛒 Visas dienas pārtikas grozs (ko nosvērt un atlikt malā)
 
-* **Svara dinamika (+0.25 kg):** Vakar tika aizvadīta ļoti liela kopējā slodze (14.3 km skrējiens + 70 min vakara spēka treniņš = ~1 750 aktīvās kcal) un uzņemti ~357g ogļhidrātu.
-* Nelielais svara pieaugums (+250g) ir **muskuļu glikogēna superkompensācija un ūdens piesaiste muskuļu šūnās** (katrs glikogēna grams piesaista ~3g ūdens), ko apstiprina arī Garmin skalas rādītājs: muskuļu masa pieaugusi par +60g (32.24 kg).
-* **Šodienas stratēģija:** Mērens ogļhidrātu daudzums, augsts proteīns muskuļu atjaunošanai un tauku dedzināšanas deficīts.
+| Produkts | Kopējais svars / daudzums | Sadalījums pa ēdienreizēm |
+| :--- | :---: | :--- |
+| 🥩 **Vistas krūtiņas fileja** | **600 g** *(jēla)* | 300 g Pusdienās (14:00) + 300 g Vakariņās (18:00) |
+| 🥚 **Vistas olas (mazās)** | **5 gab.** | 5 gab. Brokastīs (10:00) |
+| 🌾 **Prosa / Griķi / Lēcas** | **200 g** *(sausā veidā)* | 100 g Pusdienās (14:00) + 100 g Vakariņās (18:00) |
+| 🥗 **Dārzeņi kopā** *(gurķi, tomāti, burkāni u.c.)* | **1 200 g** | 300 g Brokastīs + 450 g Pusdienās + 450 g Vakariņās |
+| 🍏 **Āboli** | **5 gab.** (~650–700 g) | 2 Brokastīs + 2 Pusdienās + 1 Vakariņās |
+| 🥛 **Jogurts bez piedevām (Pilos)** | **100 g** | 100 g Vakariņās (18:00) |
+| 🎃 **Ķirbju sēklas** | **15 g** | 15 g Brokastīs (10:00) |
+| 🌻 **Saulespuķu sēklas** | **15 g** | 15 g Vakariņās (18:00) |
+| 🍋 **Citrons + Rozā sāls** | 1–2 ēd.k. sula + 1/4 tējk. sāls | Elektrolītu dzērienam brokastīs un pa dienu |
 
 ---
 
-## 🍽️ Šodienas 3 Ēdienreižu Plāns
+## 🕒 3 Ēdienreižu un porciju sadalījums
 
-### 🍳 1. Brokastis (Plkst. 10:00 — Pēc rīta 8.25 km skrējiena):
-* **5 mazās olas** *(vārītas vai viegli ceptas uz sausas pannas/minimālas eļļas)*
-* **Dārzeņi:** ~300 g *(gurķi, tomāti, paprika, zaļumi)*
-* **Āboli:** 1–2 gab.
-* **Sēklas:** 15 g ķirbju sēklas
-* **Elektrolītu dzēriens:** 400–500 ml ūdens + 1–2 ēd.k. citrona sulas + 1/4 tējk. rozā Himalaju sāls
-* **Rīta suplementi:** D3 (10 000 IU), Cinks (25 mg), Dzelzs (Ferrum ar C vit.), Omega-3 (2 kaps.), Glikozamīns/MSM, Kreatīns (5–10 g)
+### 🍳 1. Brokastis (Plkst. 10:00):
+* **5 mazās olas**
+* **300 g dārzeņi**
+* **2 āboli**
+* **15 g ķirbju sēklas**
+* **Elektrolītu dzēriens:** Ūdens + citrona sula + 1/4 tējk. rozā sāls
+* **Rīta suplementi:** D3 (10 000 IU), Cinks (25 mg), Dzelzs (Ferrum ar C vit.), Omega-3 (2 kaps.), Glikozamīns, Kreatīns (5–10 g)
 
 ---
 
 ### 🍗 2. Pusdienas (Plkst. 14:00):
-* **250–300 g vistas krūtiņas fileja** *(cepta/sautēta/vārīta)*
-* **Kompleksie ogļhidrāti:** ~100 g sausie griķi / prosa / lēcas *(gatavā veidā ~250–300 g)*
-* **Dārzeņi:** ~450 g *(svaigi salāti vai sautēti dārzeņi)*
-* **Āboli:** 1–2 gab.
+* **300 g vistas fileja**
+* **Puse vārīto putraimu** *(no 100 g sausās prosas/griķu)*
+* **450 g dārzeņi**
+* **2 āboli**
 * **Ūdens:** 500 ml
 
 ---
 
-### 🍲 3. Vakariņas (Plkst. 18:00 — Noslēdzošā ēdienreize):
-* **250–300 g vistas krūtiņas fileja** *(vai tītars / liesa zivs)*
-* **Jogurts bez piedevām (Pilos):** 100 g
-* **Dārzeņi:** ~450 g *(gurķi, tomāti, burkāni, brokoļi)*
-* **Sēklas:** 15 g saulespuķu sēklas
-* **Ābols:** 1 gab. *(ja nepieciešams papildu saldums)*
-* **Vakara suplementi:** Magnija bisglicināts (400 mg) pirms miega
+### 🍲 3. Vakariņas (Plkst. 18:00):
+* **300 g vistas fileja**
+* **Otra puse vārīto putraimu** *(no 100 g sausās prosas/griķu)*
+* **450 g dārzeņi**
+* **100 g bezpiedevu jogurts**
+* **15 g saulespuķu sēklas**
+* **1 ābols**
+* **Vakara suplementi:** Magnija bisglicināts (400 mg)
 
 ---
 
-## 📊 Plānotie Makroelementi Šodienai
+## 📊 Kopsavilkums par šodienas uzturvērtību
 
-| Uzturviela | Mērķa daudzums | Komentārs |
-| :--- | :---: | :--- |
-| 🔥 **Kopējās kalorijas** | **~2 400 – 2 550 kcal** | Optimāls mērens deficīts tauku dedzināšanai pēc 8.25 km skrējiena |
-| 🥩 **Olbaltumvielas** | **~190 – 210 g** | ~2.4 g / kg liesās masas (maksimāla muskuļu saglabāšana) |
-| 🥑 **Tauki** | **~55 – 65 g** | Olas, sēklas, Omega-3, dabīgie tauki |
-| 🌾 **Ogļhidrāti** | **~240 – 270 g** | Tīri, lēni asimilējami ogļhidrāti (prosa/griķi, dārzeņi, āboli) |
-| 🥦 **Šķiedrvielas** | **~45 – 55 g** | Lieliska gremošana, ilgstoša sāta sajūta |
+* **Kopējais ēdiena svars:** **~2.85 kg**
+* 🔥 **Kalorijas:** **~2 500 kcal**
+* 🥩 **Olbaltumvielas:** **~205 g**
+* 🥑 **Tauki:** **~60 g**
+* 🌾 **Ogļhidrāti:** **~255 g**
+* 🥦 **Šķiedrvielas:** **~52 g**
