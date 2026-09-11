@@ -7,16 +7,17 @@
 
 ---
 
-## 🛒 Visas dienas pārtikas grozs (ko nosvērt un atlikt malā)
+## 🛒 Visas dienas pārtikas grozs (pielāgots ar 330g vistu un 3% biezpienu)
 
 | Produkts | Kopējais svars / daudzums | Sadalījums pa ēdienreizēm |
 | :--- | :---: | :--- |
-| 🥩 **Vistas krūtiņas fileja** | **600 g** *(jēla)* | 300 g Pusdienās (14:00) + 300 g Vakariņās (18:00) |
+| 🥩 **Vistas krūtiņas fileja** | **330 g** *(jēla)* | **330 g** Pusdienās (14:00) |
+| 🧀 **Biezpiens 3%** | **500–600 g** | **500–600 g** Vakariņās (18:00) |
 | 🥚 **Vistas olas (mazās)** | **5 gab.** | 5 gab. Brokastīs (10:00) |
 | 🌾 **Prosa / Griķi / Lēcas** | **200 g** *(sausā veidā)* | 100 g Pusdienās (14:00) + 100 g Vakariņās (18:00) |
 | 🥗 **Dārzeņi kopā** *(gurķi, tomāti, burkāni u.c.)* | **1 200 g** | 300 g Brokastīs + 450 g Pusdienās + 450 g Vakariņās |
 | 🍏 **Āboli** | **5 gab.** (~650–700 g) | 2 Brokastīs + 2 Pusdienās + 1 Vakariņās |
-| 🥛 **Jogurts bez piedevām (Pilos)** | **100 g** | 100 g Vakariņās (18:00) |
+| 🥛 **Jogurts bez piedevām (Pilos)** | **100 g** | 100 g Vakariņās (iemaisa biezpienā) |
 | 🎃 **Ķirbju sēklas** | **15 g** | 15 g Brokastīs (10:00) |
 | 🌻 **Saulespuķu sēklas** | **15 g** | 15 g Vakariņās (18:00) |
 | 🍋 **Citrons + Rozā sāls** | 1–2 ēd.k. sula + 1/4 tējk. sāls | Elektrolītu dzērienam brokastīs un pa dienu |
@@ -27,7 +28,7 @@
 
 ### 🍳 1. Brokastis (Plkst. 10:00):
 * **5 mazās olas**
-* **300 g dārzeņi**
+* **300 g dārzeņi** *(gurķi, tomāti, zaļumi)*
 * **2 āboli**
 * **15 g ķirbju sēklas**
 * **Elektrolītu dzēriens:** Ūdens + citrona sula + 1/4 tējk. rozā sāls
@@ -36,30 +37,28 @@
 ---
 
 ### 🍗 2. Pusdienas (Plkst. 14:00):
-* **300 g vistas fileja**
-* **Puse vārīto putraimu** *(no 100 g sausās prosas/griķu)*
+* **Visa vistas fileja (330 g)** *(gatavā veidā ~250–260 g)*
+* **Puse vārīto putraimu** *(no 100 g sausās prosas/griķu/lēcu)*
 * **450 g dārzeņi**
 * **2 āboli**
 * **Ūdens:** 500 ml
 
 ---
 
-### 🍲 3. Vakariņas (Plkst. 18:00):
-* **300 g vistas fileja**
+### 🍲 3. Vakariņas (Plkst. 18:00 — Lieliska kazeīna atjaunošanās naktij):
+* **500–600 g 3% biezpiens** *(sajaukts ar 100 g bezpiedevu jogurtu, zaļumiem vai dārzeņiem)*
 * **Otra puse vārīto putraimu** *(no 100 g sausās prosas/griķu)*
 * **450 g dārzeņi**
-* **100 g bezpiedevu jogurts**
 * **15 g saulespuķu sēklas**
 * **1 ābols**
-* **Vakara suplementi:** Magnija bisglicināts (400 mg)
+* **Vakara suplementi:** Magnija bisglicināts (400 mg) pirms miega
 
 ---
 
 ## 📊 Kopsavilkums par šodienas uzturvērtību
 
-* **Kopējais ēdiena svars:** **~2.85 kg**
-* 🔥 **Kalorijas:** **~2 500 kcal**
-* 🥩 **Olbaltumvielas:** **~205 g**
-* 🥑 **Tauki:** **~60 g**
-* 🌾 **Ogļhidrāti:** **~255 g**
+* 🔥 **Kalorijas:** **~2 550 kcal**
+* 🥩 **Olbaltumvielas:** **~205 – 215 g** *(teicams augstas kvalitātes aminoskābju profils)*
+* 🥑 **Tauki:** **~65 g**
+* 🌾 **Ogļhidrāti:** **~265 g**
 * 🥦 **Šķiedrvielas:** **~52 g**
