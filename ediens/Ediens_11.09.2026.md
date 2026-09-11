@@ -1,6 +1,7 @@
 # Uztura un uztura bagātinātāju dienasgrāmata — 11.09.2026
 
 **Datums:** 11.09.2026  
+**Fotoattēls:** [Ediens_11.09.2026_11.sept. svars 81.5 (+0.25) kg. Dārzeņi 1200g, olas 5 mazas, lēcas 200g, vietas fileja 330g. biezpiens 3% 500g, āboli -5, ķirbju seklas 15g, saulespuķu sēklas 15g. Kopā 2665 kcal..jpeg](file:///Users/agrismarkus/ag/AG_VES/ag_ves_dati/ediens/Ediens_11.09.2026_11.sept.%20svars%2081.5%20(+0.25)%20kg.%20Da%CC%84rzen%CC%A7i%201200g,%20olas%205%20mazas,%20le%CC%84cas%20200g,%20vietas%20fileja%20330g.%20biezpiens%203%25%20500g,%20a%CC%84boli%20-5,%20k%CC%A7irbju%20seklas%2015g,%20saulespuk%CC%A7u%20se%CC%84klas%2015g.%20Kopa%CC%84%202665%20kcal..jpeg)  
 **Šorīta svars:** 81.53 kg (25.2% tauki, 32.24 kg muskuļu masa)  
 **Slodze:** 8.25 km rīta skrējiens (645 kcal, avg HR 127 bpm)  
 **Ēšanas logs:** 10:00 — 18:00 (3 ēdienreizes: 10:00 / 14:00 / 18:00)

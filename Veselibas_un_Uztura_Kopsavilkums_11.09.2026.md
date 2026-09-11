@@ -36,3 +36,12 @@
    * **Vidējais pulss:** 120 bpm (Max: 145 bpm)
    * **Patērētās kalorijas:** 617 kcal
    * **Aerobic Training Effect:** 2.6
+
+---
+
+## 🍽️ Šodienas Uztura Plāns un Foto
+
+* **Pilns uztura apraksts:** [Ediens_11.09.2026.md](file:///Users/agrismarkus/ag/AG_VES/ag_ves_dati/ediens/Ediens_11.09.2026.md)
+* **Pārtikas foto:** [Ediens_11.09.2026_11.sept. svars 81.5 (+0.25) kg. Dārzeņi 1200g, olas 5 mazas, lēcas 200g, vietas fileja 330g. biezpiens 3% 500g, āboli -5, ķirbju seklas 15g, saulespuķu sēklas 15g. Kopā 2665 kcal..jpeg](file:///Users/agrismarkus/ag/AG_VES/ag_ves_dati/ediens/Ediens_11.09.2026_11.sept.%20svars%2081.5%20(+0.25)%20kg.%20Da%CC%84rzen%CC%A7i%201200g,%20olas%205%20mazas,%20le%CC%84cas%20200g,%20vietas%20fileja%20330g.%20biezpiens%203%25%20500g,%20a%CC%84boli%20-5,%20k%CC%A7irbju%20seklas%2015g,%20saulespuk%CC%A7u%20se%CC%84klas%2015g.%20Kopa%CC%84%202665%20kcal..jpeg)
+* **Kopējā enerģētiskā vērtība:** **`2 665 kcal`** *(Olbaltumvielas: 229.3 g, Tauki: 69.1 g, Ogļhidrāti: 278.6 g, Šķiedrvielas: ~65 g)*
+
