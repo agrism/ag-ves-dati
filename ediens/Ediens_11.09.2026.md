@@ -7,58 +7,66 @@
 
 ---
 
-## 🛒 Visas dienas pārtikas grozs (pielāgots ar 330g vistu un 3% biezpienu)
+## 🛒 Visas dienas pārtikas grozs un kalorijas (kcal)
 
-| Produkts | Kopējais svars / daudzums | Sadalījums pa ēdienreizēm |
-| :--- | :---: | :--- |
-| 🥩 **Vistas krūtiņas fileja** | **330 g** *(jēla)* | **330 g** Pusdienās (14:00) |
-| 🧀 **Biezpiens 3%** | **500–600 g** | **500–600 g** Vakariņās (18:00) |
-| 🥚 **Vistas olas (mazās)** | **5 gab.** | 5 gab. Brokastīs (10:00) |
-| 🌾 **Prosa / Griķi / Lēcas** | **200 g** *(sausā veidā)* | 100 g Pusdienās (14:00) + 100 g Vakariņās (18:00) |
-| 🥗 **Dārzeņi kopā** *(gurķi, tomāti, burkāni u.c.)* | **1 200 g** | 300 g Brokastīs + 450 g Pusdienās + 450 g Vakariņās |
-| 🍏 **Āboli** | **5 gab.** (~650–700 g) | 2 Brokastīs + 2 Pusdienās + 1 Vakariņās |
-| 🥛 **Jogurts bez piedevām (Pilos)** | **100 g** | 100 g Vakariņās (iemaisa biezpienā) |
-| 🎃 **Ķirbju sēklas** | **15 g** | 15 g Brokastīs (10:00) |
-| 🌻 **Saulespuķu sēklas** | **15 g** | 15 g Vakariņās (18:00) |
-| 🍋 **Citrons + Rozā sāls** | 1–2 ēd.k. sula + 1/4 tējk. sāls | Elektrolītu dzērienam brokastīs un pa dienu |
-
----
-
-## 🕒 3 Ēdienreižu un porciju sadalījums
-
-### 🍳 1. Brokastis (Plkst. 10:00):
-* **5 mazās olas**
-* **300 g dārzeņi** *(gurķi, tomāti, zaļumi)*
-* **2 āboli**
-* **15 g ķirbju sēklas**
-* **Elektrolītu dzēriens:** Ūdens + citrona sula + 1/4 tējk. rozā sāls
-* **Rīta suplementi:** D3 (10 000 IU), Cinks (25 mg), Dzelzs (Ferrum ar C vit.), Omega-3 (2 kaps.), Glikozamīns, Kreatīns (5–10 g)
+| # | Produkts | Daudzums / Svars | Kalorijas (kcal) | Olbaltumv. (g) | Tauki (g) | Ogļhidr. (g) | Sadalījums pa ēdienreizēm |
+| :-: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| 1. | 🥩 **Vistas krūtiņas fileja** | **330 g** *(jēla)* | **~380 kcal** | 77.6 g | 5.9 g | 0.0 g | Visa fileja Pusdienās (14:00) |
+| 2. | 🧀 **Biezpiens 3%** | **500 g** *(vai 600 g)* | **~405 kcal** *(~486)* | 50.0 g | 15.0 g | 12.0 g | Viss biezpiens Vakariņās (18:00) |
+| 3. | 🥚 **Vistas olas (mazās)** | **5 gab.** (~235 g) | **~340 kcal** | 30.0 g | 24.0 g | 1.8 g | Visas 5 olas Brokastīs (10:00) |
+| 4. | 🌾 **Prosa / Griķi** | **200 g** *(sausā)* | **~748 kcal** | 22.0 g | 7.0 g | 144.0 g | 100 g Pusdienās + 100 g Vakariņās |
+| 5. | 🥗 **Dārzeņi kopā** | **1 200 g** | **~360 kcal** | 12.0 g | 3.6 g | 72.0 g | 300 g Brok. + 450 g Pusd. + 450 g Vakar. |
+| 6. | 🍏 **Āboli** | **5 gab.** (~650 g) | **~338 kcal** | 1.9 g | 1.3 g | 89.7 g | 2 Brok. + 2 Pusd. + 1 Vakar. |
+| 7. | 🎃 **Ķirbju sēklas** | **15 g** | **~84 kcal** | 4.5 g | 7.4 g | 2.1 g | Brokastīs (10:00) |
+| 8. | 🌻 **Saulespuķu sēklas** | **15 g** | **~88 kcal** | 3.1 g | 7.7 g | 3.0 g | Vakariņās (18:00) |
+| 9. | 💊 **Omega-3 kapsulas** | **2 gab.** | **~20 kcal** | 0.0 g | 2.0 g | 0.0 g | Brokastīs (10:00) |
+| 10. | 🍋 **Citrons + Rozā sāls** | 1–2 ēd.k. + 1/4 tējk. | **~10 kcal** | 0.2 g | 0.0 g | 2.0 g | Elektrolītu dzērienam |
+| **KOPĀ** | **ŠODIENAS PĀRTIKA** | **~2.95 kg** | **~2 773 kcal** | **~201.3 g** | **~73.9 g** | **~326.6 g** | *(ar 600g biezpienu: ~2 854 kcal, 211g P)* |
 
 ---
 
-### 🍗 2. Pusdienas (Plkst. 14:00):
-* **Visa vistas fileja (330 g)** *(gatavā veidā ~250–260 g)*
-* **Puse vārīto putraimu** *(no 100 g sausās prosas/griķu/lēcu)*
-* **450 g dārzeņi**
-* **2 āboli**
-* **Ūdens:** 500 ml
+## 🕒 3 Ēdienreizes un precīzs kaloriju (kcal) sadalījums
+
+### 🍳 1. Brokastis (Plkst. 10:00) — Kopā: **~860 kcal**
+| Produkts | Daudzums | Kalorijas (kcal) |
+| :--- | :---: | :---: |
+| 🥚 Vistas olas (mazās) | 5 gab. | **~340 kcal** |
+| 🥗 Dārzeņi (gurķi, tomāti, zaļumi) | 300 g | **~90 kcal** |
+| 🍏 Āboli | 2 gab. (~260 g) | **~135 kcal** |
+| 🎃 Ķirbju sēklas | 15 g | **~84 kcal** |
+| 💊 Omega-3 kapsulas | 2 gab. | **~20 kcal** |
+| 🍋 Elektrolītu dzēriens (ūdens + citrons + sāls) | 500 ml | **~10 kcal** |
+| 💊 Rīta suplementi *(D3, Cinks, Dzelzs, Glikozamīns, Kreatīns)* | — | 0 kcal |
 
 ---
 
-### 🍲 3. Vakariņas (Plkst. 18:00 — Lieliska kazeīna atjaunošanās naktij):
-* **500–600 g 3% biezpiens** *(sajaukts ar 100 g bezpiedevu jogurtu, zaļumiem vai dārzeņiem)*
-* **Otra puse vārīto putraimu** *(no 100 g sausās prosas/griķu)*
-* **450 g dārzeņi**
-* **15 g saulespuķu sēklas**
-* **1 ābols**
-* **Vakara suplementi:** Magnija bisglicināts (400 mg) pirms miega
+### 🍗 2. Pusdienas (Plkst. 14:00) — Kopā: **~1 024 kcal**
+| Produkts | Daudzums | Kalorijas (kcal) |
+| :--- | :---: | :---: |
+| 🥩 Vistas krūtiņas fileja *(visa fileja)* | 330 g | **~380 kcal** |
+| 🌾 Vārīti putraimi *(no 100 g sausās prosas/griķu)* | ~250–300 g gatavi | **~374 kcal** |
+| 🥗 Dārzeņi (svaigi salāti / sautēti) | 450 g | **~135 kcal** |
+| 🍏 Āboli | 2 gab. (~260 g) | **~135 kcal** |
+| 💧 Ūdens | 500 ml | 0 kcal |
 
 ---
 
-## 📊 Kopsavilkums par šodienas uzturvērtību
+### 🍲 3. Vakariņas (Plkst. 18:00) — Kopā: **~889 kcal** *(ar 500g biezpienu)*
+| Produkts | Daudzums | Kalorijas (kcal) |
+| :--- | :---: | :---: |
+| 🧀 Biezpiens 3% | 500 g *(vai 600 g)* | **~405 kcal** *(~486)* |
+| 🌾 Vārīti putraimi *(no 100 g sausās prosas/griķu)* | ~250–300 g gatavi | **~374 kcal** |
+| 🥗 Dārzeņi (gurķi, tomāti, burkāni, brokoļi) | 450 g | **~135 kcal** |
+| 🌻 Saulespuķu sēklas | 15 g | **~88 kcal** |
+| 🍏 Ābols | 1 gab. (~130 g) | **~68 kcal** |
+| 💊 Vakara suplementi *(Magnija bisglicināts 400 mg)* | — | 0 kcal |
 
-* 🔥 **Kalorijas:** **~2 550 kcal**
-* 🥩 **Olbaltumvielas:** **~205 – 215 g** *(teicams augstas kvalitātes aminoskābju profils)*
-* 🥑 **Tauki:** **~65 g**
-* 🌾 **Ogļhidrāti:** **~265 g**
-* 🥦 **Šķiedrvielas:** **~52 g**
+---
+
+## 📊 Kopsavilkums par šodienas uzturu
+
+* 🔥 **Kopējās kalorijas:** **~2 773 kcal** *(ar 500 g biezpienu)* vai **~2 854 kcal** *(ar 600 g biezpienu)*
+* 🥩 **Olbaltumvielas:** **~201 – 211 g** *(ideāls aminoskābju daudzums)*
+* 🥑 **Tauki:** **~74 g**
+* 🌾 **Ogļhidrāti:** **~326 g**
+* 🥦 **Šķiedrvielas:** **~56 g**
