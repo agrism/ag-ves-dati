@@ -257,11 +257,11 @@
     "actStartDateTimeInGMTFormatted": null,
     "activityStartDateTimeLocal": null,
     "activityStartDateTimeLocalFormatted": null,
-    "value": 2.0,
-    "prStartTimeGmt": 1788987600000,
-    "prStartTimeGmtFormatted": "2026-09-09T21:00:00.0",
-    "prStartTimeLocal": 1788998400000,
-    "prStartTimeLocalFormatted": "2026-09-10T00:00:00.0",
+    "value": 1.0,
+    "prStartTimeGmt": 1789419600000,
+    "prStartTimeGmtFormatted": "2026-09-14T21:00:00.0",
+    "prStartTimeLocal": 1789430400000,
+    "prStartTimeLocalFormatted": "2026-09-15T00:00:00.0",
     "prTypeLabelKey": null,
     "poolLengthUnit": null
   }

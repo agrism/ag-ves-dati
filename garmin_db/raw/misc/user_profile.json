@@ -2,7 +2,7 @@
   "id": 119690768,
   "userData": {
     "gender": "MALE",
-    "weight": 81529.0,
+    "weight": 81029.0,
     "height": 175.0,
     "timeFormat": "time_twenty_four_hr",
     "birthDate": "1979-03-21",
@@ -77,12 +77,12 @@
     "golfSpeedUnit": null,
     "externalBottomTime": null,
     "availableTrainingDays": [
-      "THURSDAY",
-      "MONDAY",
+      "SATURDAY",
       "FRIDAY",
       "TUESDAY",
+      "THURSDAY",
       "WEDNESDAY",
-      "SATURDAY",
+      "MONDAY",
       "SUNDAY"
     ],
     "preferredLongTrainingDays": [

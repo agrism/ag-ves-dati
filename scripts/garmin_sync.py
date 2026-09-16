@@ -520,8 +520,13 @@ def _fetch_single_day(d_str: str) -> Dict[str, Any]:
             client = get_garmin_client()
         return client
 
+    # For recent days (within 5 days of today), always fetch fresh data from Garmin
+    today = datetime.date.today()
+    target_d = datetime.date.fromisoformat(d_str)
+    is_recent = (today - target_d).days <= 5
+
     # 1. Stats and Body / Daily Summary
-    if summary_path.exists():
+    if summary_path.exists() and not is_recent:
         try:
             with open(summary_path, "r", encoding="utf-8") as f:
                 result["stats_and_body"] = json.load(f)
@@ -535,7 +540,7 @@ def _fetch_single_day(d_str: str) -> Dict[str, Any]:
             result["stats_and_body"] = None
 
     # 2. Sleep Data
-    if sleep_path.exists():
+    if sleep_path.exists() and not is_recent:
         try:
             with open(sleep_path, "r", encoding="utf-8") as f:
                 result["sleep"] = json.load(f)
@@ -549,7 +554,7 @@ def _fetch_single_day(d_str: str) -> Dict[str, Any]:
             result["sleep"] = None
 
     # 3. HRV Data
-    if hrv_path.exists():
+    if hrv_path.exists() and not is_recent:
         try:
             with open(hrv_path, "r", encoding="utf-8") as f:
                 result["hrv"] = json.load(f)
@@ -563,7 +568,7 @@ def _fetch_single_day(d_str: str) -> Dict[str, Any]:
             result["hrv"] = None
 
     # 4. Training Readiness
-    if readiness_path.exists():
+    if readiness_path.exists() and not is_recent:
         try:
             with open(readiness_path, "r", encoding="utf-8") as f:
                 result["readiness"] = json.load(f)
@@ -577,7 +582,7 @@ def _fetch_single_day(d_str: str) -> Dict[str, Any]:
             result["readiness"] = None
 
     # 5. Training Status
-    if status_path.exists():
+    if status_path.exists() and not is_recent:
         try:
             with open(status_path, "r", encoding="utf-8") as f:
                 result["status"] = json.load(f)
@@ -638,11 +643,29 @@ def sync_daily_metrics_concurrent(conn: sqlite3.Connection, start_date_str: str,
                     ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
                     ON CONFLICT(calendar_date) DO UPDATE SET
                         total_steps=excluded.total_steps,
+                        step_goal=excluded.step_goal,
                         total_distance_m=excluded.total_distance_m,
                         active_calories=excluded.active_calories,
+                        bmr_calories=excluded.bmr_calories,
+                        total_calories=excluded.total_calories,
+                        floors_climbed=excluded.floors_climbed,
+                        floors_goal=excluded.floors_goal,
                         resting_hr=excluded.resting_hr,
+                        min_hr=excluded.min_hr,
+                        max_hr=excluded.max_hr,
                         avg_stress=excluded.avg_stress,
+                        max_stress=excluded.max_stress,
+                        stress_duration_s=excluded.stress_duration_s,
+                        rest_stress_duration_s=excluded.rest_stress_duration_s,
+                        low_stress_duration_s=excluded.low_stress_duration_s,
+                        med_stress_duration_s=excluded.med_stress_duration_s,
+                        high_stress_duration_s=excluded.high_stress_duration_s,
+                        body_battery_charged=excluded.body_battery_charged,
+                        body_battery_drained=excluded.body_battery_drained,
                         body_battery_highest=excluded.body_battery_highest,
+                        body_battery_lowest=excluded.body_battery_lowest,
+                        moderate_intensity_minutes=excluded.moderate_intensity_minutes,
+                        vigorous_intensity_minutes=excluded.vigorous_intensity_minutes,
                         raw_json=excluded.raw_json,
                         updated_at=CURRENT_TIMESTAMP
                     """, (
